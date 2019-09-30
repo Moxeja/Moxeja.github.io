@@ -1,1 +1,2 @@
-# Moxeja.github.io
+# moxeja.github.io
+Used for internet stuff.
